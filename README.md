@@ -3,7 +3,8 @@
  — *Дейл Карнеги*
 
 _About ~you~ me_ : **7alant**
-
+* *18 лет*
+* *люблю спорт*
 * I’m currently working on обучением в ИТМО
 * I’m currently learning язык программирования [![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)](https://robotclass.ru/articles/c_book_language/14/)
   ## I’m looking to collaborate with:
@@ -19,6 +20,11 @@ int main{
   return 0;
 }
 ```
+## Мои цели
+* Не вылететь с первого курса
+* Закончить обучение
+* Изучить С++
+  
 ## Моя стата
 ![GitHub Streak](https://streak-stats.demolab.com?user=7alant&theme=dark)
 
